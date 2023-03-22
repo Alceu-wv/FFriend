@@ -1,0 +1,12 @@
+C:\code\dotnet\FFriend.MVC\FFriend.Domain\bin\Debug\net6.0\FFriend.Domain.deps.json
+C:\code\dotnet\FFriend.MVC\FFriend.Domain\bin\Debug\net6.0\FFriend.Domain.dll
+C:\code\dotnet\FFriend.MVC\FFriend.Domain\bin\Debug\net6.0\FFriend.Domain.pdb
+C:\code\dotnet\FFriend.MVC\FFriend.Domain\obj\Debug\net6.0\FFriend.Domain.csproj.AssemblyReference.cache
+C:\code\dotnet\FFriend.MVC\FFriend.Domain\obj\Debug\net6.0\FFriend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\dotnet\FFriend.MVC\FFriend.Domain\obj\Debug\net6.0\FFriend.Domain.AssemblyInfoInputs.cache
+C:\code\dotnet\FFriend.MVC\FFriend.Domain\obj\Debug\net6.0\FFriend.Domain.AssemblyInfo.cs
+C:\code\dotnet\FFriend.MVC\FFriend.Domain\obj\Debug\net6.0\FFriend.Domain.csproj.CoreCompileInputs.cache
+C:\code\dotnet\FFriend.MVC\FFriend.Domain\obj\Debug\net6.0\FFriend.Domain.dll
+C:\code\dotnet\FFriend.MVC\FFriend.Domain\obj\Debug\net6.0\refint\FFriend.Domain.dll
+C:\code\dotnet\FFriend.MVC\FFriend.Domain\obj\Debug\net6.0\FFriend.Domain.pdb
+C:\code\dotnet\FFriend.MVC\FFriend.Domain\obj\Debug\net6.0\ref\FFriend.Domain.dll

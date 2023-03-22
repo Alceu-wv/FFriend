@@ -1,0 +1,17 @@
+C:\code\dotnet\FFriend.MVC\FFriend.Infra\bin\Debug\net6.0\FFriend.Infra.deps.json
+C:\code\dotnet\FFriend.MVC\FFriend.Infra\bin\Debug\net6.0\FFriend.Infra.runtimeconfig.json
+C:\code\dotnet\FFriend.MVC\FFriend.Infra\bin\Debug\net6.0\FFriend.Infra.dll
+C:\code\dotnet\FFriend.MVC\FFriend.Infra\bin\Debug\net6.0\FFriend.Infra.pdb
+C:\code\dotnet\FFriend.MVC\FFriend.Infra\bin\Debug\net6.0\FFriend.Domain.dll
+C:\code\dotnet\FFriend.MVC\FFriend.Infra\bin\Debug\net6.0\FFriend.Domain.pdb
+C:\code\dotnet\FFriend.MVC\FFriend.Infra\obj\Debug\net6.0\FFriend.Infra.csproj.AssemblyReference.cache
+C:\code\dotnet\FFriend.MVC\FFriend.Infra\obj\Debug\net6.0\FFriend.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\dotnet\FFriend.MVC\FFriend.Infra\obj\Debug\net6.0\FFriend.Infra.AssemblyInfoInputs.cache
+C:\code\dotnet\FFriend.MVC\FFriend.Infra\obj\Debug\net6.0\FFriend.Infra.AssemblyInfo.cs
+C:\code\dotnet\FFriend.MVC\FFriend.Infra\obj\Debug\net6.0\FFriend.Infra.csproj.CoreCompileInputs.cache
+C:\code\dotnet\FFriend.MVC\FFriend.Infra\obj\Debug\net6.0\FFriend.Infra.csproj.CopyComplete
+C:\code\dotnet\FFriend.MVC\FFriend.Infra\obj\Debug\net6.0\FFriend.Infra.dll
+C:\code\dotnet\FFriend.MVC\FFriend.Infra\obj\Debug\net6.0\refint\FFriend.Infra.dll
+C:\code\dotnet\FFriend.MVC\FFriend.Infra\obj\Debug\net6.0\FFriend.Infra.pdb
+C:\code\dotnet\FFriend.MVC\FFriend.Infra\obj\Debug\net6.0\FFriend.Infra.genruntimeconfig.cache
+C:\code\dotnet\FFriend.MVC\FFriend.Infra\obj\Debug\net6.0\ref\FFriend.Infra.dll
