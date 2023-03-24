@@ -48,6 +48,6 @@ namespace FFriend.Infra.Migrations
 
             migrationBuilder.DropTable(
                 name: "User");
-        }
+        } 
     }
 }
